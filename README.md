@@ -2,6 +2,9 @@
 
 https://www.laraship.com/product/laraship-laravel-marketplace/
 
+https://marketplace3.laraship.com
+https://marketplace2.laraship.com
+https://marketplace.laraship.com
 
 Laraship Laravel Marketplace is a Laravel Multi-vendor e-commerce platform, which enables sellers to promote their products under a single hub.
 
